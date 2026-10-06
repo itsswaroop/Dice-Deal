@@ -2,7 +2,7 @@
 
 A two-player dice game for the browser. Refresh the page and both players roll at random. The headline announces the winner, so it settles small arguments quickly.
 
-<img src="" alt="Dicee screenshot" width="600">
+<img src="./images/dice-deal.png" alt="Dicee screenshot" width="600">
 
 ## Features
 
