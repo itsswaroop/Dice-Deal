@@ -1,4 +1,4 @@
-# Dicee
+# Dicee -deal
 
 A two-player dice game for the browser. Refresh the page and both players roll at random. The headline announces the winner, so it settles small arguments quickly.
 
